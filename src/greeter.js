@@ -1,4 +1,5 @@
 module.exports = function greet() {
-    return 1+3;
+    return 'Hello';
 
 }
+
