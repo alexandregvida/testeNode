@@ -1,0 +1,254 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"book",
+				"books"
+			],
+			[
+				"in",
+				"teste-integration"
+			],
+			[
+				"medi",
+				"mediaMensal"
+			],
+			[
+				"p",
+				"println"
+			],
+			[
+				"gas",
+				"gastosTrimestre"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"con",
+				"contem"
+			],
+			[
+				"nm",
+				"numeroPensado"
+			],
+			[
+				"nume",
+				"numeroPensado"
+			],
+			[
+				"numero",
+				"numeroInicial"
+			],
+			[
+				"nue",
+				"numeroInicial"
+			],
+			[
+				"nu",
+				"numeroSoteado"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/alexandre/Documentos/nodejs",
+		"/home/alexandre/Documentos/nodejs/test"
+	],
+	"file_history":
+	[
+		"/home/alexandre/Documentos/nodejs/test/integration/app.js",
+		"/home/alexandre/Documentos/nodejs/package.json",
+		"/home/alexandre/Documentos/testable-nodejs-api/test/integration/helpers.js",
+		"/home/alexandre/Documentos/nodejs/test/integration/helpers.js",
+		"/home/alexandre/Documentos/testable-nodejs-api/package.json",
+		"/home/alexandre/Documentos/testable-nodejs-api/test/integration/mocha.opts",
+		"/home/alexandre/Documentos/nodejs/test/integration/mocha.opts",
+		"/home/alexandre/Downloads/Gasto de Combustivel ",
+		"/home/alexandre/Documentos/testable-nodejs-api/.babelrc",
+		"/home/alexandre/Documentos/nodejs/index.js",
+		"/home/alexandre/Documentos/nodejs/app.js",
+		"/home/alexandre/Documentos/nodejs/.babelrc",
+		"/home/alexandre/Documentos/nodejs/package.json.2465840843",
+		"/home/alexandre/Documentos/nodejs/olanode.js",
+		"/home/alexandre/Documentos/testable-nodejs-api/app.js",
+		"/home/alexandre/.bash_aliases",
+		"/home/alexandre/Documentos/TesteSoftBox/json",
+		"/home/alexandre/Documentos/TesteSoftBox/package.json",
+		"/home/alexandre/Documentos/java-collections-aula3/gerenciador-de-cursos/.travis.yml",
+		"/home/alexandre/.bashrc",
+		"/etc/bash_completion.d/apport_completion",
+		"/home/alexandre/.profile",
+		"/home/alexandre/.cache/.fr-EbFhfA/.profile",
+		"/home/alexandre/.cache/.fr-V7fa25/.bash_logout",
+		"/home/alexandre/.cache/.fr-qD9sJO/.bash_history",
+		"/home/alexandre/logica/receita.html",
+		"/home/alexandre/Java/ExOito.java",
+		"/home/alexandre/.bash_logout",
+		"/home/alexandre/.cache/.fr-JrrGFR/.bash_logout",
+		"/home/alexandre/.cache/.fr-mdxZ4e/.bash_aliases",
+		"/home/alexandre/.bash_history",
+		"/home/alexandre/.cache/.fr-RYAQQm/.bash_logout",
+		"/home/alexandre/Java/MeuPrograma.class"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
