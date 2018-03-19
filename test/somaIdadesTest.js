@@ -1,5 +1,5 @@
 var assert = require('assert');
-var greeter = require('../src/somaIdades.js');
+var somaIdades = require('../src/somaIdades.js');
 
 describe('Soma Idades', function() {
   describe('Assert Message', function() {
