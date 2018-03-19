@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha ./test/*.js",
-    "start": ""
+    "start": "./src/somaIdades.js"
   },
   "repository": {
     "type": "git",
