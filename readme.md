@@ -1,3 +1,4 @@
-[![Build Status](https://travis-ci.org/linck/protontype.svg?branch=develop)](https://travis-ci.org/linck/protontype)
+Teste SoftBox 
 
-Exemplo de Integração Contínua com Travis CI
+Mocha - Testes
+Travis - Altomação de Build e Testes  
